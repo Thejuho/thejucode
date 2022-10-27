@@ -12,6 +12,12 @@ public class CustomMethods {
         webdriver.click();
         return true;
     }
+	
+	
+	public boolean cdef(){
+		webdriver.cleartext();
+		return true;
+	}
 
 }
 
